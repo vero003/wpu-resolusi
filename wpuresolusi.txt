@@ -3,3 +3,7 @@ wpu resolusi
 2. belajar bootstrap
 3. belajar javascript
 4.belajar php
+
+wpu resolusi 2
+1. belajar java
+2. belajar kotlins
