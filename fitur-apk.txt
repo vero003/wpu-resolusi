@@ -1,8 +1,10 @@
 1. fitur jual
+   - fitur harga
 2. fitur beli
 3. fitur pengiriman barang
    - track lokasi
    - cek ongkos
+   - fitur transaksi
 4. fitur sewa
    - fitur jasa
    - fitur lokasi
