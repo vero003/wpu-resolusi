@@ -5,4 +5,7 @@
    - track lokasi
    - cek ongkos
    - fitur transaksi
+4. fitur sewa
+   - fitur jasa
+   - fitur lokasi
    
