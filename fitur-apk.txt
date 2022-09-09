@@ -4,4 +4,6 @@
    - track lokasi
    - cek ongkos
 4. fitur sewa
+   - fitur jasa
+   - fitur lokasi
    
